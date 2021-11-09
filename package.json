@@ -1,6 +1,6 @@
 {
   "name": "@binary/gcc-riscv32-esp-elf",
-  "version": "1.0.0-esp-2021r2-8.4.0",
+  "version": "1.0.1-esp-2021r2-8.4.0",
   "description": "gcc-riscv32-esp-elf",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
